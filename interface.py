@@ -17,3 +17,6 @@ def selecionar_opcao(msg):
             break
         except ValueError:
             print('OPÇÃO INVALIDA TENTE NUMEROS')
+
+
+            
